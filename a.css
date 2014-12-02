@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-size: normal;
+    font-family: 黑体-简;
+}
+canvas {
+    display: block;
+    margin: 50px auto;
+    border: 1px solid red;
+}
